@@ -1,6 +1,6 @@
 # Hi buddies 👋, I'm Md. Ridoy Ali
 
-I am a Software Engineering student at Daffodil International University. I am highly interested in building logic, solving problems, mastering DSA and working with OOP.i am also love diving deep into computer architecture. My ultimate goal is to become an operating system developer and contribute to the Linux kernel. 
+I am a Software Engineering student at Daffodil International University. I am highly interested in building logic, solving problems, mastering DSA and working with OOP.I also love diving deep into computer architecture. My ultimate goal is to become an operating system developer and contribute to the Linux kernel. 
 
 💡 *I'm always open to talking about OS development,DSA,System Design,OOP,and C/C++ projects!*
 
